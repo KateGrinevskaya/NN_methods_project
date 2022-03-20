@@ -4,9 +4,17 @@
 Презентация к `29.01.2022` есть в файлах, а вот [ссылка](https://docs.google.com/presentation/d/1jZjVo1a3vtCak-OyGlwKWzhlrksOpSqK_kHQAAJFA5Y/edit?usp=sharing).
 Ссылка на [Trello](https://trello.com/b/lrAiG4q9/term-extraction).
 
-Цель: выделение терминов с определениями из предложений.
+## Цель: выделение терминов с определениями из предложений.
 
-Тетрадки с кодом:
+## Данные:
+
+Статьи из википедии
+
+sents_Wiki_tagged.csv (table1)
+
+tokens_Wiki_tagged.csv (table2)
+
+## Тетрадки с кодом:
 
 - **get_wikidata.ipynb**
 
