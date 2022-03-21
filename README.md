@@ -34,7 +34,7 @@ tokens_Wiki_tagged.csv (table2)
 
 - **название.ipynb**
 
-Дообученный BERT с лучшей опробованной моделью с CRF по признакам и весами от BERT
+Дообученный BERT с лучшей опробованной моделью с CRF по признакам и с весами от BERT
 
 table1 (sent_def.csv)
 | sent_index	| text_sent |	has_def
